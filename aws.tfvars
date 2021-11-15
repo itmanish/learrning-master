@@ -1,0 +1,6 @@
+region =  "us-east-2"
+instance_type = "t2.micro"
+instance_key = "mykey"
+vpc_cidr = "178.0.0.0/16"
+public_subnet_cidr = "178.0.10.0/24"
+instance_Count = "3"

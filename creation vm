@@ -1,0 +1,9 @@
+create vpc
+create internet gateway
+create custom route tabel
+create subnet
+assocaite subnet with route tabel
+create security groups to allow porta like 22 
+create a network interface with an ip in the subnet that was created in step 4
+assign a elstic ip to the netwrok interface created in step 7
+create ubantu server and install/enable apache 2
